@@ -11,6 +11,6 @@
 * [Real-time Programming with the C++ Standard Library - Timur Doumler - CppCon 2021](https://www.youtube.com/watch?v=Tof5pRedskI)
 * [Introduction to Processor Intrinsics: Supercharge your DSP Code! - Jamie Pond - ADC21](https://www.youtube.com/watch?v=X8dPANPmC7E&t=1450s)
 * [C++ Expression Templates for Specifying Compile-time DSP Structures - Matthew Robbetts - ADC21](https://www.youtube.com/watch?v=2F-21UUn1L4&t=613s)
-
+* [Using Locks in Real-Time Audio Processing, Safely - Timur Doumler - ADC20](https://www.youtube.com/watch?v=zrWYJ6FdOFQ&t=2109s)
 
 
